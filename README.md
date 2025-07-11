@@ -4,7 +4,7 @@
 
 I'm currently learning full-stack mobile app development with a focus on Flutter, Firebase integration, REST API usage, and modern UI/UX design.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SarmadSiyal786&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=SarmadSiyal&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -62,15 +62,15 @@ I'm currently learning full-stack mobile app development with a focus on Flutter
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmadSiyal786&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmadSiyal&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarmadSiyal786&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarmadSiyal&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadSiyal786&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadSiyal&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
