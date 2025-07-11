@@ -84,7 +84,7 @@ I'm currently learning full-stack mobile app development with a focus on Flutter
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadSiyal&theme=dark" alt="Sarmad Siyal's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadSiyal&theme=dark" alt=" GitHub Streak"/>
 </p>
 
 ---
