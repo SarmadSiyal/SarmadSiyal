@@ -13,7 +13,7 @@ I'm currently learning full-stack mobile app development with a focus on Flutter
 - Flutter & Dart
 - Firebase (Auth, Firestore, Cloud Functions)
 - RESTful APIs
-- State Management (Provider, Riverpod)
+- Backend with Node.js
 - UI/UX principles
 
 ---
@@ -30,6 +30,9 @@ I'm currently learning full-stack mobile app development with a focus on Flutter
 ## 📫 Reach Me At
 
 - 📧 Email: **sarmadsindhi101@gmail.com**
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sarmad-Siyal-b01845269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-ahmed-21bscs20" height="30" width="40" /></a>
 - 💼 [LinkedIn Profile](https://linkedin.com/in/sarmad-siyal-b01845269)
 
 ---
@@ -78,6 +81,5 @@ I'm currently learning full-stack mobile app development with a focus on Flutter
 ## 🔥 Goals for 2025
 
 - ✅ Complete Final Year Project (FYP)
-- 🚀 Build a real-world Flutter app
 - 📚 Learn backend with Node.js and Firebase Functions
 - ✍️ Contribute to open-source projects
